@@ -1,7 +1,3 @@
-# console.log-
-
-有趣的 console.log 打印问题
-
 # 学习笔记：有趣的 console.log 打印问题
 
 问：在使用 console.log 输出 foo1 时，改变输出数据（即：将对象 foo1 的 bar 从 1 改成 2），再次使用 console.log 输出对象 foo1，两次输出是什么？
@@ -22,4 +18,5 @@ eg:
 
 # 2.步骤分析
 
-当默认浏览器打开时
+当默认浏览器打开时,如下图
+![image](https://github.com/yinhongGITHUB/console.log-/blob/main/imgs/first.png)
